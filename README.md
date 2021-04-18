@@ -2,4 +2,4 @@
 
 
 
-You'll find more information on these pages soon.
+More information on these pages soon.
