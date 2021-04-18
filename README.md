@@ -1,9 +1,8 @@
 ![MAYhem](pics/Green-bg-removed.png)
 # May 15th
 
-An event soon on interwebz. 
+An event soon on interwebz. We gonna be chasing dem bad guys, so GET READY
 
-We gonna be chasing dem bad guys, so GET READY
 
 
 ## Schedule
