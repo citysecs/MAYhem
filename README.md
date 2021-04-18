@@ -1,4 +1,4 @@
-![MAYhem](pics/logo.png)
+![MAYhem](pics/Green.png)
 # May 15th
 
 An event soon on interwebz. 
