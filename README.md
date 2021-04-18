@@ -1,4 +1,4 @@
-## MAY 15th
+## May 15th
 
 An event soon on interwebz. 
 
