@@ -19,7 +19,6 @@ An event soon on interwebz. We gonna be chasing dem bad guys, so GET READY
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
 
-| --- | --- | --- |
 
 
 ### Track 2 - Workshops
@@ -28,3 +27,4 @@ An event soon on interwebz. We gonna be chasing dem bad guys, so GET READY
 | --- | --- | --- |
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
+
