@@ -1,5 +1,4 @@
 ![MAYhem](pics/MAYhem_no_background.png)
-
 # May 15th
 
 An event soon on interwebz. 
