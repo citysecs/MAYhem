@@ -1,4 +1,4 @@
-![MAYhem](pics/logo.png)
+![MAYhem](pics/MAYhem_no_background.png)
 
 # May 15th
 
