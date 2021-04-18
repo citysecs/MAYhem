@@ -9,7 +9,7 @@ An event soon on interwebz. We gonna be chasing dem bad guys, so GET READY
 
 ### Track 1 - Talks
 
-| Time | Speaker | Title
+| Speaker | Time | Title
 | --- | --- | --- |
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
@@ -22,7 +22,7 @@ An event soon on interwebz. We gonna be chasing dem bad guys, so GET READY
 
 ### Track 2 - Workshops
 
-| Time | Speaker | Title
+| Speaker | Time | Title
 | --- | --- | --- |
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
