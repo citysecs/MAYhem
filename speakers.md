@@ -1,4 +1,4 @@
-# Talks
+# Speakers
 
 The speakers will be published soon. STAY TUNED //
 
