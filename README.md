@@ -12,9 +12,17 @@ An event soon on interwebz. We gonna be chasing dem bad guys, so GET READY
 | Time | Speaker | Title
 | --- | --- | --- |
 | TBA | TBA | TBA |
+| TBA | TBA | TBA |
+| TBA | TBA | TBA |
+| TBA | TBA | TBA |
+| TBA | TBA | TBA |
+
+| --- | --- | --- |
+
 
 ### Track 2 - Workshops
 
 | Time | Speaker | Title
 | --- | --- | --- |
+| TBA | TBA | TBA |
 | TBA | TBA | TBA |
