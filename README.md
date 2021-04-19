@@ -26,7 +26,7 @@ The event has two tracks both happening at the same time, so you've got some dec
 
 ### Track 2 - Workshops
 
-Two workshops, 2,5 hrs each
+Two workshops, 2.5 hrs each
 
 | Speaker | Subject | Time
 | --- | --- | --- |
