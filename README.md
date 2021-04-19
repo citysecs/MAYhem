@@ -6,6 +6,8 @@ Soon here on interwebz near you wherever you are. We gonna be chasing dem bad gu
 The event has two tracks both happening at the same time, so you've got some decisions to make
 
 
+
+
 ## Schedule
 
 
@@ -24,7 +26,7 @@ The event has two tracks both happening at the same time, so you've got some dec
 
 ### Track 2 - Workshops
 
-Duration of a workshop: 2,5 hrs
+Two workshops, 2,5 hrs each
 
 | Speaker | Subject | Time
 | --- | --- | --- |
