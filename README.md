@@ -32,5 +32,5 @@ Two workshops, 2.5 hrs each
 | TBA | TBA | TBA |
 
 <div style="width: 100%; text-align: right">
-<a href="https://twitter.com/citysecs/"><img src="pics/twitter.png"/></a>
+<a href="https://twitter.com/citysecs/"><img src="pics/twitter.png" height="50"/></a>
 </div>
