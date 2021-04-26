@@ -6,7 +6,6 @@ Soon here on interwebz near you wherever you are. We gonna be chasing dem bad gu
 The event has two tracks both happening at the same time, so you've got some decisions to make
 
 
-
 # Schedule
 
 
@@ -32,3 +31,6 @@ Two workshops, 2.5 hrs each
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
 
+<div style="width: 100%; text-align: right">
+<a href="https://twitter.com/citysecs/"><img src="pics/twitter.png"/></a>
+</div>
