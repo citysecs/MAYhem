@@ -14,7 +14,7 @@ The event has two tracks both happening at the same time, so you've got some dec
 
 | Speaker | Title| Time
 | --- | --- | --- |
-| TBA | TBA | TBA |
+| [Benjamin Särkkä](speakers#benjamin-särkkä) | Pulling On The String | 17.00 EEST (14.00 UTC) |
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
