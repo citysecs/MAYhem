@@ -1,6 +1,6 @@
 # Speakers
 
-The speakers will be published soon. STAY TUNED //
+More speakers will be published soon. STAY TUNED //
 
 ## Benjamin Särkkä
 <div style="display: flex; flex-direction: row">
