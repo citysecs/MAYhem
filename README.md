@@ -1,7 +1,6 @@
 <div style="display: flex; justify-content:flex-end; float:right">
 <div style="text-align: center">
 <a href="https://www.twitch.tv/citysecs" noopener noreferrer target="_blank">
-Follow the event <br>live on Twitch<br>
 <img src="pics/twitch.png" width=150/></a></div>
 </div>
 
