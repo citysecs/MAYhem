@@ -1,4 +1,12 @@
+<div style="display: flex; justify-content:flex-end; float:right">
+<div style="text-align: center">
+<a href="https://www.twitch.tv/citysecs" noopener noreferrer target="_blank">
+Follow the event <br>live on Twitch</a><br>
+<img src="pics/twitch.png" width=150/></div>
+</div>
+
 ![MAYhem](pics/Green-bg-removed.png)
+
 # May 15th
 
 Soon here on interwebz near you wherever you are. We gonna be chasing dem bad guys, so GET READY
