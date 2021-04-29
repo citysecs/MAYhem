@@ -35,7 +35,7 @@ Two workshops, 2.5 hrs each
 
 | Speaker | Subject | Time
 | --- | --- | --- |
-| TBA | TBA | TBA |
+| [Juho Jauhiainen](speakers#juho-jauhiainen) | Forensics Crash Course | 17.00 EEST (14.00 UTC) |
 | TBA | TBA | TBA |
 
 <div style="width: 100%; text-align: right">

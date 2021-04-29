@@ -4,7 +4,7 @@ More speakers will be published soon. STAY TUNED //
 
 ## Benjamin Särkkä
 <div style="display: flex; flex-direction: row">
-<div style="width: 100rem; padding: 1.3rem 1rem 0rem 0rem;">
+<div style="flex: 0 0 50%; padding: 1.3rem 1rem 0rem 0rem;">
 <img src="pics/speakers/benjamin_sarkka.jpg"  alt="Benjamin Särkkä" title="Benjamin Särkkä" />
  </div>
  <div>
@@ -22,14 +22,34 @@ More speakers will be published soon. STAY TUNED //
  </div>
  </div>
  
- ## Speaker 2
+## Juho Jauhiainen
+
+ <div style="display: flex; flex-direction: row">
+<div style="flex: 0 0 50%; padding: 1.3rem 1rem 0rem 0rem;">
+<img src="pics/speakers/juho_jauhiainen.jpg"  alt="Juho Jauhiainen" title="Juho Jauhiainen" />
+ </div>
+ <div>
+<p>Juho works as Information Security Specialist at NCSC-FI. Before NCSC-FI, he has worked in various positions doing security operations, digital forensics and incident response since 2014. His current role involves malware analysis, digital forensics and incident response. In his freetime, Juho runs HelSec Ry, hosts Turvakäräjät podcast and teaches forensics at National Defence Training Association of Finland. Juho is CISSP, GCFA, GMON, GREM and OSCP certified.
+</p>
+<p>
+<a href="https://twitter.com/juhojauhiainen" noopener noreferrer target="_blank">https://twitter.com/juhojauhiainen</a><br />
+<a href="https://fi.linkedin.com/in/jauhiainen" noopener noreferrer target="_blank">https://fi.linkedin.com/in/jauhiainen</a><br />
+<a href="https://instagram.com/jauhiaine" noopener noreferrer target="_blank">https://instagram.com/jauhiaine</a></p>
+
+ </div>
+ </div>
+ 
+## Speaker 3
  TBA
  
- ## Speaker 3
+## Speaker 4
  TBA
  
- ## Speaker 4
+## Speaker 5
+ TBA
+
+## Speaker 6
  TBA
  
- ## Speaker 5
+## Speaker 7
  TBA
