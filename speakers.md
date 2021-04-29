@@ -12,7 +12,7 @@ More speakers will be published soon. STAY TUNED //
 
 <p>He has lectured at universities, starred in the hit show Team Whack, founded the Disobey organisation and helped build an incident response team for the largest financial player in the Nordics. </p>
 
-<p>Benjamin was selected as the 2020 TiVi IT Influencer of the year in Finland, and feels that securing enterprises are more about understanding the basics and having good it-hygiene than the AI-blockchain-hypebeast. </p>
+<p>Benjamin was selected as the 2020 TiVi IT Influencer of the year in Finland, and feels that securing enterprises are more about understanding the basics and having a good IT hygiene rather than the AI-blockchain-hypebeast. </p>
 
 <p>Coming from humble beginnings he donates some of his time to volunteering and helping the underprivileged.</p>
 <p>
