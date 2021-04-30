@@ -49,7 +49,7 @@ The answer is very simple: we wanted to create something to cheer up the cyber s
 community. Hope this will do the trick until we can all meet each other again irl &lt;3
 
 ## Does it cost anything to participate?
-Zero, zilch, zip, nil, nought, nothing. You can high five us later on.
+Zero, zilch, zip, nil, nought, nothing. You can high five us later.
 
 ## I’m not able to join but I’d really want to! Will the talks and all be recorded?
 
