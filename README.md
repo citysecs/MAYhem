@@ -68,7 +68,8 @@ Each track has their own subchannels in Discord for chatting and asking question
 
 ## In case you need to know more
 
-If there’s something we’ve not covered in this FAQ, ping us on Twitter [@citysecs](https://twitter.com/citysecs/)
+If there’s something we’ve not covered in this FAQ, ping us on Twitter [@citysecs](https://twitter.com/citysecs/)!
+We use Twitter as the event's main communication channel, so make sure to follow to keep up with the latest updates.
 
 
 <div style="width: 100%; text-align: right">
