@@ -3,7 +3,7 @@
 More speakers will be published soon. STAY TUNED //
 
 ## Benjamin Särkkä
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: row; margin-bottom: 1.5rem">
 <div style="flex: 0 0 50%; padding: 1.3rem 1rem 0rem 0rem;">
 <img src="pics/speakers/benjamin_sarkka.jpg"  alt="Benjamin Särkkä" title="Benjamin Särkkä" />
  </div>
@@ -24,7 +24,7 @@ More speakers will be published soon. STAY TUNED //
  
 ## Juho Jauhiainen
 
- <div style="display: flex; flex-direction: row">
+ <div style="display: flex; flex-direction: row; margin-bottom: 1.5rem">
 <div style="flex: 0 0 50%; padding: 1.3rem 1rem 0rem 0rem;">
 <img src="pics/speakers/juho_jauhiainen.jpg"  alt="Juho Jauhiainen" title="Juho Jauhiainen" />
  </div>
@@ -39,8 +39,17 @@ More speakers will be published soon. STAY TUNED //
  </div>
  </div>
  
-## Speaker 3
- TBA
+## Antti Kurittu
+ <div style="display: flex; flex-direction: row; margin-bottom: 1.5rem">
+<div style="flex: 0 0 50%; padding: 1.3rem 1rem 0rem 0rem;">
+<img src="pics/speakers/antti_kurittu.jpg"  alt="Antti Kurittu" title="Antti Kurittu" />
+ </div>
+ <div>
+<p>Antti Kurittu is a former police officer from the Helsinki PD and has worked as a senior specialist for the NCSC-FI. Currently Antti is the Digital Forensics & Incident Response Team Lead at Nixu Oyj, a Finnish cyber security company. He also co-hosts the massively popular Turvakäräjät podcast together with Juho Jauhiainen and Laura Kankaala. In his spare time he touches computers and tries to do some Brazilian jiu jitsu. 
+</p>
+
+ </div>
+ </div>
  
 ## Speaker 4
  TBA

@@ -22,7 +22,7 @@ The event has two tracks both happening at the same time, so you've got some dec
 | Speaker | Title| Time
 | --- | --- | --- |
 | [Benjamin Särkkä](speakers#benjamin-särkkä) | Pulling On The String | 17.00 EEST (14.00 UTC) |
-| TBA | TBA | TBA |
+| [Antti Kurittu](speakers#antti-kurittu) | Five Ways To Fail At Crime | 18.00 EEST (15.00 UTC) |
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
