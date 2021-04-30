@@ -48,6 +48,9 @@ Please join CitySec Events Discord server where you’ll able to chat with other
 The answer is very simple: we wanted to create something to cheer up the cyber security
 community. Hope this will do the trick until we can all meet each other again irl &lt;3
 
+## Does it cost anything to participate?
+Zero, zilch, zip, nil, nought, nothing. You can high five us later on.
+
 ## I’m not able to join but I’d really want to! Will the talks and all be recorded?
 
 Unfortunately no, as the people behind the event are all in this voluntarily, so for that reason we see no point in creating yet another channel to keep up with only for this purpose.
