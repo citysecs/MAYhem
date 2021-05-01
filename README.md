@@ -81,7 +81,7 @@ It's almost MAYhem o'clock! A few more weeks to go!
 
 ## In case you need to know more
 
-If there’s something we’ve not covered in this FAQ, ping us on Twitter [@citysecs](https://twitter.com/citysecs/)!
+If there’s something we’ve not covered in this FAQ, ping us on Twitter; there's an icon on the bottom right corner.
 We use Twitter as the event's main communication channel, so make sure to follow us to keep up with the latest updates.
 
 
