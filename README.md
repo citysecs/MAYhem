@@ -75,6 +75,10 @@ Track 2: Workshops
 
 Each track has their own subchannels in Discord for chatting and asking questions. Team MAYhem will pick the questions for the presenter to answer at the end of each presentation.
 
+## What time is it?
+
+It's almost MAYhem o'clock! A few more weeks to go!
+
 ## In case you need to know more
 
 If there’s something we’ve not covered in this FAQ, ping us on Twitter [@citysecs](https://twitter.com/citysecs/)!
