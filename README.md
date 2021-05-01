@@ -62,9 +62,9 @@ in 2022.
 
 Both tracks have their own streams each:
 
-# Track 1: Talks [https://www.twitch.tv/citysecs](https://www.twitch.tv/citysecs)
+Track 1: Talks [https://www.twitch.tv/citysecs](https://www.twitch.tv/citysecs)
 
-# Track 2: Workshops [https://www.twitch.tv/citysecs2](https://www.twitch.tv/citysecs2)
+Track 2: Workshops [https://www.twitch.tv/citysecs2](https://www.twitch.tv/citysecs2)
 
 ## I want to ask something from the presenters. How can I present my question?
 
