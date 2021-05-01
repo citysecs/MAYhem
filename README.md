@@ -58,7 +58,12 @@ Unfortunately no, as the people behind the event are all in this voluntarily, so
 And the second reason is that we’re not sure whether the event is something will do again
 in 2022.
 
-Both tracks will be streamed on Twitch [https://www.twitch.tv/citysecs](https://www.twitch.tv/citysecs)
+## Where can I follow the streams?
+
+Both tracks have their own streams each:
+
+Track 1: Talks [https://www.twitch.tv/citysecs](https://www.twitch.tv/citysecs) 
+Track 2: Workshops [https://www.twitch.tv/citysecs2](https://www.twitch.tv/citysecs2
 
 ## I want to ask something from the presenters. How can I present my question?
 
@@ -72,7 +77,7 @@ Each track has their own subchannels in Discord for chatting and asking question
 ## In case you need to know more
 
 If there’s something we’ve not covered in this FAQ, ping us on Twitter [@citysecs](https://twitter.com/citysecs/)!
-We use Twitter as the event's main communication channel, so make sure to follow to keep up with the latest updates.
+We use Twitter as the event's main communication channel, so make sure to follow us to keep up with the latest updates.
 
 
 <div style="width: 100%; text-align: right">
