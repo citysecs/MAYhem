@@ -1,7 +1,9 @@
 <div style="display: flex; justify-content:flex-end; float:right">
 <div style="text-align: center">
 <a href="https://www.twitch.tv/citysecs" noopener noreferrer target="_blank">
-<img src="pics/twitch.png" width=150/></a></div>
+<img src="pics/citysec_1.png" width=150 alt="Talks - stream" title="Talks - stream"/></a>
+<a href="https://www.twitch.tv/citysecs2" noopener noreferrer target="_blank">
+<img src="pics/citysec_2.png" width=150 alt="Workshops - stream" title="Workshops - stream"/></a></div>
 </div>
 
 ![MAYhem](pics/Green-bg-removed.png)
