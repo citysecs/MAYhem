@@ -65,8 +65,18 @@ More speakers will be published soon. STAY TUNED //
  </div>
  </div>
  
-## Speaker 5
- TBA
+## Tommy DeVoss
+<div style="display: flex; flex-direction: row; margin-bottom: 1.5rem">
+<div style="flex: 0 0 50%; padding: 1.3rem 1rem 0rem 0rem;">
+<img src="pics/speakers/tommy_devoss.jpg"  alt="Tommy DeVoss" title="Tommy DeVoss" />
+ </div>
+ <div>
+<p>Tommy is 37-year-old hacker from Richmond Virginia. He started out as a blackhat in the mid 90s and continued on this path until his final release from prison in 2010. Upon being released from prison, Tommy began a career as a Unix System Admin, and Bug Bounty Hunter. Since then, he had become one of the highest paid and most well-known Bug Bounty Hunters on the planet featured in the news frequently, as well as in documentaries done by Bloomberg and others.
+</p>
+<p>
+<a href="https://twitter.com/thedawgyg" noopener noreferrer target="_blank">https://twitter.com/thedawgyg</a></p>
+ </div>
+ </div>
 
 ## Speaker 6
  TBA
