@@ -65,7 +65,7 @@ More speakers will be published soon. STAY TUNED //
 </div>
 <div>
 <p>Nick Jones is the cloud security lead and a senior security consultant at F-Secure Consulting, where he focuses on AWS security and attack detection in advanced, cloud-native organisations. He has been delivering offensive security testing, consultancy and support to a world-wide client base, including some of the world's largest financial organisations, for over 7 years. 
-<p>
+</p><p>
 Nick has previously spoken at t2, DEF CON Cloud Village, fwd:cloudsec, Cloud Native Security Day and DevSecCon, and maintains Leonidas, an open source framework for simulating attacks against cloud environments.
 </p>
 <p>
@@ -83,7 +83,7 @@ Nick has previously spoken at t2, DEF CON Cloud Village, fwd:cloudsec, Cloud Nat
 </div>
 <div>
 <p>Tommy is a 37-year-old hacker from Richmond Virginia. He started out as a blackhat in the mid 90s and continued on this path until his final release from prison in 2010. 
-<p>
+</p><p>
 Upon being released from prison, Tommy began a career as a Unix System Admin, and a Bug Bounty Hunter. Since then, he had become one of the highest paid and most well-known Bug Bounty Hunters on the planet featured in the news frequently, as well as in documentaries done by Bloomberg and others.
 </p>
 <p>
