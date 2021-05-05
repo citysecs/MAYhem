@@ -70,11 +70,12 @@ Nick has previously spoken at t2, DEF CON Cloud Village, fwd:cloudsec, Cloud Nat
 </p>
 <p>
 <a href="http://twitter.com/nojonesuk" noopener noreferrer target="_blank">http://twitter.com/nojonesuk</a><br />
-<a href="https://www.linkedin.com/in/nickojones" noopener noreferrer target="_blank">https://www.linkedin.com/in/nickojones</a></p>
+<a href="https://www.linkedin.com/in/nickojones" noopener noreferrer target="_blank">https://www.linkedin.com/in/nickojones</a>
+</p>
+ 
 </div>
 </div>
  
-
 ## Tommy DeVoss
 <div style="display: flex; flex-direction: row; margin-bottom: 1.5rem">
 <div style="flex: 0 0 50%; padding: 1.3rem 1rem 0rem 0rem;">
@@ -86,7 +87,9 @@ Nick has previously spoken at t2, DEF CON Cloud Village, fwd:cloudsec, Cloud Nat
 Upon being released from prison, Tommy began a career as a Unix System Admin, and a Bug Bounty Hunter. Since then, he had become one of the highest paid and most well-known Bug Bounty Hunters on the planet featured in the news frequently, as well as in documentaries done by Bloomberg and others.
 </p>
 <p>
-<a href="https://twitter.com/thedawgyg" noopener noreferrer target="_blank">https://twitter.com/thedawgyg</a></p>
+<a href="https://twitter.com/thedawgyg" noopener noreferrer target="_blank">https://twitter.com/thedawgyg</a>
+ </p>
+ 
 </div>
 </div>
 
