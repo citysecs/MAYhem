@@ -62,7 +62,7 @@ in 2022.
 
 ## Where can I follow the streams?
 
-Both tracks have their own streams each; you'll find the buttons for each of the track stream top right of this page, but here they are again:
+Both tracks have their own streams each; you'll also find the buttons for each streams from top right of this page, but here they are again:
 
 Track 1: Talks [https://www.twitch.tv/citysecs](https://www.twitch.tv/citysecs)
 
@@ -70,12 +70,12 @@ Track 2: Workshops [https://www.twitch.tv/citysecs2](https://www.twitch.tv/citys
 
 ## I want to ask something from the presenters. How can I present my question?
 
-All the communication happens on Discord, so make sure you’ve joined the server. You have two tracks to choose from:
+All the communication happens on Discord, so make sure you’ve joined the server. You have two channels to choose from:
 
 Track 1: Talks  
 Track 2: Workshops
 
-Each track has their own subchannels in Discord for chatting and asking questions. Team MAYhem will pick the questions for the presenter to answer at the end of each presentation.
+Each track has their own subchannels on Discord for chatting and asking questions. Team MAYhem will pick the questions for the presenter to answer at the end of each presentation.
 
 ## What time is it?
 
