@@ -62,7 +62,7 @@ in 2022.
 
 ## Where can I follow the streams?
 
-Both tracks have their own streams each; you'll also find the buttons for each streams from top right of this page, but here they are again:
+Both tracks have their own stream each; you'll also find the buttons for each streams from top right of this page, but here they are again:
 
 Track 1: Talks [https://www.twitch.tv/citysecs](https://www.twitch.tv/citysecs)
 
