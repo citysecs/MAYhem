@@ -85,8 +85,18 @@ More speakers will be published soon. STAY TUNED //
  </div>
  </div>
 
-## Speaker 6
- TBA
+## Plug
+<div style="display: flex; flex-direction: row; margin-bottom: 1.5rem">
+<div style="flex: 0 0 50%; padding: 1.3rem 1rem 0rem 0rem;">
+<img src="pics/speakers/plug.png"  alt="Plug" title="Plug" />
+ </div>
+ <div>
+<p>Plug started his journey in computer security back in 1996 when he discovered a 2600 magazine that eventually led him to his first LA2600 meeting in 1998. From that point forward, he has been involved in computer security. In his free time he enjoys building Legos, playing with synthesizers, and when possible, he volunteers his time to computer security events.
+</p>
+<p>
+<a href="https://twitter.com/plugxor" noopener noreferrer target="_blank">https://twitter.com/plugxor</a></p>
+ </div>
+ </div>
  
 ## Speaker 7
  TBA

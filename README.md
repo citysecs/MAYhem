@@ -27,7 +27,7 @@ The event has two tracks both happening at the same time, so you've got some dec
 | [Antti Kurittu](speakers#antti-kurittu) | Five Ways To Fail At Crime | 18.00 EEST (15.00 UTC) |
 | [Nick Jones](speakers#nick-jones) | Spotting the Storm: Attack Detection in the Cloud | 19.00 EEST (16.00 UTC) |
 | [Tommy DeVoss](speakers#tommy-devoss) | Hunted: from Wanted Blackhat to Celebrated Whitehat | 20.00 EEST (17.00 UTC) |
-| TBA | TBA | TBA |
+| [Plug](speakers#plug) | Silver Sparrow and the Tale of the Mysterious Insu File | 21.00 EEST (18.00 UTC)  |
 
 
 
