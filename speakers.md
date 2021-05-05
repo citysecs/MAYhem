@@ -64,7 +64,9 @@ More speakers will be published soon. STAY TUNED //
 <img src="pics/speakers/nick_jones.jpg"  alt="Nick Jones" title="Nick Jones" />
  </div>
  <div>
-<p>Nick Jones is the cloud security lead and a senior security consultant at F-Secure Consulting, where he focuses on AWS security and attack detection in advanced, cloud-native organisations. He has been delivering offensive security testing, consultancy and support to a world-wide client base, including some of the world's largest financial organisations, for over 7 years. Nick has previously spoken at t2, DEF CON Cloud Village, fwd:cloudsec, Cloud Native Security Day and DevSecCon, and maintains Leonidas, an open source framework for simulating attacks against cloud environments.
+<p>Nick Jones is the cloud security lead and a senior security consultant at F-Secure Consulting, where he focuses on AWS security and attack detection in advanced, cloud-native organisations. He has been delivering offensive security testing, consultancy and support to a world-wide client base, including some of the world's largest financial organisations, for over 7 years. 
+ <p>
+Nick has previously spoken at t2, DEF CON Cloud Village, fwd:cloudsec, Cloud Native Security Day and DevSecCon, and maintains Leonidas, an open source framework for simulating attacks against cloud environments.
 </p>
 <p>
 <a href="http://twitter.com/nojonesuk" noopener noreferrer target="_blank">http://twitter.com/nojonesuk</a><br />
