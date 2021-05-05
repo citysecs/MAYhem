@@ -35,10 +35,17 @@ More speakers will be published soon. STAY TUNED //
 <a href="https://twitter.com/juhojauhiainen" noopener noreferrer target="_blank">https://twitter.com/juhojauhiainen</a><br />
 <a href="https://fi.linkedin.com/in/jauhiainen" noopener noreferrer target="_blank">https://fi.linkedin.com/in/jauhiainen</a><br />
 <a href="https://instagram.com/jauhiaine" noopener noreferrer target="_blank">https://instagram.com/jauhiaine</a></p>
-
+<p>
+ In Juho's workshop we learn the very basics of digital forensics. We focus on Windows memory, registry and filesystem. The syllabus involves (but is not limited to) Windows memory structure; what can be found from memory, what can be found from the disk, what tools to use for a specific evidence, and how to study further. Juho has prepared a storyline, which we will analyze first together. The workshop will culminate to a CTF-style competition. In the competition you need to finish analyzing the storyline and answer to some questions related to it. The competition will start at the end of the workshop and will be closed on the next day. This workshop is revised/upgraded edition from the one Juho held at Disobey 2020. Let's make blue team great again!
+</p>
  </div>
  </div>
  
+ Pre-requirements:
+* (Recommended) Virtual Ubuntu 18.04 with SIFT ([https://github.com/teamdfir/sift-cli](https://github.com/teamdfir/sift-cli) and --mode=server) and REMnux tools ([https://docs.remnux.org/install-distro/install-from-scratch](https://docs.remnux.org/install-distro/install-from-scratch) and --mode=addon)
+* OR Virtual SIFT / REMnux / KALI OR you can install tools on your Linux as we use them
+* 40Gb of free space on the system
+
 ## Antti Kurittu
  <div style="display: flex; flex-direction: row; margin-bottom: 1.5rem">
 <div style="flex: 0 0 50%; padding: 1.3rem 1rem 0rem 0rem;">
