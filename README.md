@@ -38,7 +38,7 @@ Two workshops, 2.5 hrs each
 | Speaker | Subject | Time
 | --- | --- | --- |
 | [Juho Jauhiainen](speakers#juho-jauhiainen) | Forensics Crash Course | 17.00 EEST (14.00 UTC) |
-| TBA | TBA | TBA |
+| [Peeter Marvet](speakers#peeter-marvet)| Find & kill your WordPress intruder with bare hands (and logs) | 19.45.00 EEST (16.45 UTC) |
 
 # FAQ
 

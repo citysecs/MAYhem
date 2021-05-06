@@ -106,5 +106,25 @@ Upon being released from prison, Tommy began a career as a Unix System Admin, an
 </div>
 </div>
  
-## Speaker 7
- TBA
+## Peeter Marvet
+<div style="display: flex; flex-direction: row; margin-bottom: 1.5rem">
+<div style="flex: 0 0 50%; padding: 1.3rem 1rem 0rem 0rem;">
+<img src="pics/speakers/peeter_marvet.jpg"  alt="Peeter Marvet" title="Peeter Marvet" />
+</div>
+<div>
+<p>Peeter started programming back in 80's when computers ate punchcards for breakfast, lunch and dinner. His past includes design, printing, teaching, writing, radio- and TV production, marketing, web development and presumably a lot of things he has either forgotten about or prefers to not remember. For past 5 years he has been with hosting provider Zone.ee, among other tasks helping some 40 000 website-owners stay safe ... and clean up the mess if they don't. When not hacking around tends to sail or stand watches in voluntary marine rescue (or some combination of these - like being rescued while sailing).
+</p>
+<p>
+In his workshop for MAYhem, Peeter will walk you through the process of finding the presumable time and method of intrusion for common WordPress attack vectors (and really stupid cases of self-pwning) together with his 'clinup' process. We'll be using his publicly available scripts and SpectX, easier labs can be enjoyed using web browser and text editor, but some will require shell / SSH to reproduce the demonstrated methods.
+</p>
+<p>
+<a href="https://twitter.com/petskratt" noopener noreferrer target="_blank">https://twitter.com/petskratt</a><br />
+<a href="https://www.linkedin.com/in/petskratt" noopener noreferrer target="_blank">https://www.linkedin.com/in/petskratt</a></p>
+</div>
+</div>
+
+Tools to play through the labs:
+
+* web browser
+* Free personal edition of [https://www.spectx.com/](https://www.spectx.com/) (we'll hopefully have a shared browser-accessible instance as well)
+* SSH (for some automation + compromized WP cleanup) and ability to fetch code samples from Github
