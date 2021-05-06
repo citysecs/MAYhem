@@ -55,10 +55,7 @@ Zero, zilch, zip, nil, nought, nothing. You can high five us later.
 
 ## I’m not able to join but I’d really want to! Will the talks and all be recorded?
 
-Unfortunately no, as the people behind the event are all in this voluntarily, so for that reason we see no point in creating yet another channel to keep up with only for this purpose.
-
-And the second reason is that we’re not sure whether the event is something will do again
-in 2022.
+As both tracks are streamed on Twitch, they'll be available there for two (2) weeks after the event. We are also considering adding them to HelSec's YouTube channel.
 
 ## Where can I follow the streams?
 
