@@ -23,7 +23,7 @@
     </div>  
 </div>
 
-Soon here on interwebz near you wherever you are. We gonna be chasing dem bad guys, so GET READY
+Saturday May 15th here on interwebz near you wherever you are. We gonna be chasing dem bad guys, so GET READY
 
 The event has two tracks both happening at the same time, so you've got some decisions to make
 
@@ -68,7 +68,7 @@ Zero, zilch, zip, nil, nought, nothing. You can high five us later.
 
 ## I’m not able to join but I’d really want to! Will the talks and all be recorded?
 
-As both tracks are streamed on Twitch, they'll be available there for two (2) weeks after the event. We are also considering adding them to HelSec's YouTube channel.
+As both tracks are streamed on Twitch, they'll be available there for two (2) weeks after the event. After that, you'll find all the streamed content on Disobey's YouTube channel. We'll let you know.
 
 ## Where can I follow the streams?
 
