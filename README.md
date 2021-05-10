@@ -87,6 +87,11 @@ Track 2: Workshops
 
 Each track has their own subchannels on Discord for chatting and asking questions. Team MAYhem will pick the questions for the presenter to answer at the end of each presentation.
 
+## Saw some cool stickers made especially for the event. Where can I get one?
+
+Depending on which CitySec area you live in, you'll get one from your CitySec representative. The existing CitySecs are listed here [https://www.citysec.fi](https://www.citysec.fi)
+
+
 ## What time is it?
 
 It's almost MAYhem o'clock! 5 more days to go!
