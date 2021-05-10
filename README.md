@@ -89,7 +89,7 @@ Each track has their own subchannels on Discord for chatting and asking question
 
 ## What time is it?
 
-It's almost MAYhem o'clock! 10 more days to go!
+It's almost MAYhem o'clock! 5 more days to go!
 
 ## In case you need to know more
 
