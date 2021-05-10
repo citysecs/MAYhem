@@ -1,14 +1,27 @@
 <div style="display: flex; justify-content:flex-end; float:right">
 <div style="text-align: center">
 <a href="https://www.twitch.tv/citysecs" noopener noreferrer target="_blank">
-<img src="pics/citysec_1.png" width=150 alt="Talks - stream" title="Talks - stream"/></a>
+<img src="pics/citysec_1.png" width=130 alt="Talks - stream" title="Talks - stream"/></a>
 <a href="https://www.twitch.tv/citysecs2" noopener noreferrer target="_blank">
-<img src="pics/citysec_2.png" width=150 alt="Workshops - stream" title="Workshops - stream"/></a></div>
+<img src="pics/citysec_2.png" width=130 alt="Workshops - stream" title="Workshops - stream"/></a></div>
 </div>
 
 ![MAYhem](pics/Green-bg-removed.png)
 
-# May 15th
+<div style="margin: 3rem 0; text-align: center;  ">
+    <h1>Begins in</h1>
+    <div id="timer" style="display: grid; grid-template-columns: repeat(4, 1fr); width: 30rem; margin: 0 auto">
+        <span id="timer-days" style="font-size: 3rem; font-weight: semibold"></span>
+        <span id="timer-hours" style="font-size: 3rem; font-weight: semibold"></span>
+        <span id="timer-mins" style="font-size: 3rem; font-weight: semibold"></span>
+        <span id="timer-secs" style="font-size: 3rem; font-weight: semibold"></span>
+
+        <span style="font-size: 0.7rem">days</span>
+        <span style="font-size: 0.7rem">hours</span>
+        <span style="font-size: 0.7rem">minutes</span>
+        <span style="font-size: 0.7rem">seconds</span>
+    </div>  
+</div>
 
 Soon here on interwebz near you wherever you are. We gonna be chasing dem bad guys, so GET READY
 
@@ -87,3 +100,5 @@ We use Twitter as the event's main communication channel, so make sure to follow
 <div style="width: 100%; text-align: right">
 <a href="https://twitter.com/citysecs/"><img src="pics/twitter.png" height="50"/></a>
 </div>
+
+<script src="js/timer.js"></script>
