@@ -61,7 +61,7 @@ Please join CitySec Events Discord server where you’ll able to chat with other
 
 ## So what’s this MAYhem all about now?
 The answer is very simple: we wanted to create something to cheer up the cyber security
-community. Hope this will do the trick until we can all meet each other again irl &lt;3
+community. MAYhem is a joint effort by the CitySecs of the cold North.
 
 ## Does it cost anything to participate?
 Zero, zilch, zip, nil, nought, nothing. You can high five us later.
