@@ -94,7 +94,7 @@ Depending on which CitySec area you live in, you'll get one from your CitySec re
 
 ## What time is it?
 
-It's almost MAYhem o'clock! 5 more days to go!
+It's almost MAYhem o'clock! 3 more days to go!
 
 ## In case you need to know more
 
