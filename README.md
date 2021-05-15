@@ -8,21 +8,6 @@
 
 ![MAYhem](pics/Green-bg-removed.png)
 
-<div style="margin: 3rem 0; text-align: center;  ">
-    <h1>Begins in</h1>
-    <div id="timer" style="display: grid; grid-template-columns: repeat(4, 1fr); width: 30rem; margin: 0 auto">
-        <span id="timer-days" style="font-size: 3rem; font-weight: semibold"></span>
-        <span id="timer-hours" style="font-size: 3rem; font-weight: semibold"></span>
-        <span id="timer-mins" style="font-size: 3rem; font-weight: semibold"></span>
-        <span id="timer-secs" style="font-size: 3rem; font-weight: semibold"></span>
-
-        <span style="font-size: 0.7rem">days</span>
-        <span style="font-size: 0.7rem">hours</span>
-        <span style="font-size: 0.7rem">minutes</span>
-        <span style="font-size: 0.7rem">seconds</span>
-    </div>  
-</div>
-
 Saturday May 15th here on interwebz near you wherever you are. We gonna be chasing dem bad guys, so GET READY
 
 The event has two tracks both happening at the same time, so you've got some decisions to make
@@ -105,5 +90,3 @@ We use Twitter as the event's main communication channel, so make sure to follow
 <div style="width: 100%; text-align: right">
 <a href="https://twitter.com/citysecs/"><img src="pics/twitter.png" height="50"/></a>
 </div>
-
-<script src="js/timer.js"></script>
