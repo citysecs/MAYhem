@@ -8,6 +8,12 @@
 
 ![MAYhem](pics/Green-bg-removed.png)
 
+# WE ARE LIVE
+
+Track 1: Talks [https://www.twitch.tv/citysecs](https://www.twitch.tv/citysecs)
+
+Track 2: Workshops [https://www.twitch.tv/citysecs2](https://www.twitch.tv/citysecs2)
+
 
 # Schedule
 
