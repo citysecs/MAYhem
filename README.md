@@ -2,7 +2,9 @@
 
 ![MAYhem](pics/Green-bg-removed.png)
 
-# It was a blast -thank you <3 Videos soon available, we'll let u know!
+# It was a blast -thank you <3 
+
+Videos soon available, we'll let u know!
 
 
 
