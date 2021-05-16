@@ -7,7 +7,6 @@
 Videos soon available, we'll let u know!
 
 
-
 # FAQ
 
 Please join CitySec Events Discord server where you’ll able to chat with other participants and ask questions from the presenters during the event on May 15th.
