@@ -21,23 +21,6 @@ Zero, zilch, zip, nil, nought, nothing. You can high five us later.
 
 As both tracks are streamed on Twitch, they'll be available there for two (2) weeks after the event. After that, you'll find all the streamed content on Disobey's YouTube channel. We'll let you know when.
 
-## Where can I follow the streams?
-
-Both tracks have their own stream each; you'll also find the buttons for each stream from top right of this page, but here they are again:
-
-Track 1: Talks [https://www.twitch.tv/citysecs](https://www.twitch.tv/citysecs)
-
-Track 2: Workshops [https://www.twitch.tv/citysecs2](https://www.twitch.tv/citysecs2)
-
-## I want to ask something from the presenters. How can I present my question?
-
-All the communication happens on Discord, so make sure you’ve joined the server. You have two channels to choose from:
-
-Track 1: Talks  
-Track 2: Workshops
-
-Each track has their own subchannels on Discord for chatting and asking questions. Team MAYhem will pick the questions for the presenter to answer at the end of each presentation.
-
 ## Saw some cool stickers made especially for the event. Where can I get one?
 
 Depending on which CitySec area you live in, you'll get one from your CitySec representative. The existing CitySecs are listed here [https://www.citysec.fi](https://www.citysec.fi)
