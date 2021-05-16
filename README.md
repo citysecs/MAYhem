@@ -1,44 +1,10 @@
-<div style="display: flex; justify-content:flex-end; float:right">
-<div style="text-align: center">
-<a href="https://www.twitch.tv/citysecs" noopener noreferrer target="_blank">
-<img src="pics/citysec_1.png" width=130 alt="Talks - stream" title="Talks - stream"/></a>
-<a href="https://www.twitch.tv/citysecs2" noopener noreferrer target="_blank">
-<img src="pics/citysec_2.png" width=130 alt="Workshops - stream" title="Workshops - stream"/></a></div>
-</div>
+
 
 ![MAYhem](pics/Green-bg-removed.png)
 
-# WE ARE LIVE
-
-Track 1: Talks [https://www.twitch.tv/citysecs](https://www.twitch.tv/citysecs)
-
-Track 2: Workshops [https://www.twitch.tv/citysecs2](https://www.twitch.tv/citysecs2)
+# It was a blast -thank you <3 Videos soon available, we'll let u know!
 
 
-# Schedule
-
-
-
-### Track 1 - Talks
-
-| Speaker | Title| Time
-| --- | --- | --- |
-| [Benjamin Särkkä](speakers#benjamin-särkkä) | Pulling On The String | 17.00 EEST (14.00 UTC) |
-| [Antti Kurittu](speakers#antti-kurittu) | Five Ways To Fail At Crime | 18.00 EEST (15.00 UTC) |
-| [Nick Jones](speakers#nick-jones) | Spotting the Storm: Attack Detection in the Cloud | 19.00 EEST (16.00 UTC) |
-| [Tommy DeVoss](speakers#tommy-devoss) | Hunted: from Wanted Blackhat to Celebrated Whitehat | 20.00 EEST (17.00 UTC) |
-| [Plug](speakers#plug) | Silver Sparrow and the Tale of the Mysterious Insu File | 21.00 EEST (18.00 UTC)  |
-
-
-
-### Track 2 - Workshops
-
-Two workshops, 2.5 hrs each
-
-| Speaker | Subject | Time
-| --- | --- | --- |
-| [Juho Jauhiainen](speakers#juho-jauhiainen) | Forensics Crash Course | 17.00 EEST (14.00 UTC) |
-| [Peeter Marvet](speakers#peeter-marvet)| Find & kill your WordPress intruder with bare hands (and logs) | 19.45.00 EEST (16.45 UTC) |
 
 # FAQ
 
