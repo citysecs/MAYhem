@@ -47,14 +47,6 @@ Each track has their own subchannels on Discord for chatting and asking question
 Depending on which CitySec area you live in, you'll get one from your CitySec representative. The existing CitySecs are listed here [https://www.citysec.fi](https://www.citysec.fi)
 
 
-## What time is it?
-
-It's time for MAYheeeeeeeem! 
-
-## In case you need to know more
-
-If there’s something we’ve not covered in this FAQ, ping us on Twitter! There's an icon at the bottom of the page.
-We use Twitter as the event's main communication channel, so make sure to follow us to keep up with the latest updates.
 
 
 <div style="width: 100%; text-align: right">
