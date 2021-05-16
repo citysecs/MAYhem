@@ -9,9 +9,6 @@ Videos soon available, we'll let u know!
 
 # FAQ
 
-Please join CitySec Events Discord server where you’ll able to chat with other participants and ask questions from the presenters during the event on May 15th.
-
-[https://discord.gg/psZCTzskre](https://discord.gg/psZCTzskre)
 
 ## So what’s this MAYhem all about now?
 The answer is very simple: we wanted to create something to cheer up the cyber security
