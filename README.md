@@ -4,7 +4,10 @@
 
 # It was a blast -thank you <3 
 
-Videos soon available, we'll let u know!
+We did not record the workshop track so no video recording available afterwards.
+Talk track recording will be edited before adding it to Disobey's YouTube; we'll let u know when it's there!
+
+[https://www.youtube.com/c/Disobey](https://www.youtube.com/c/Disobey)
 
 
 # FAQ
