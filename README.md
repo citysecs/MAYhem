@@ -8,7 +8,7 @@
 
 # It was a blast -thank you <3 
 
-Both recordings will be edited before adding them to Disobey's YouTube; we'll let u know when theyr'e there.
+Both recordings will be edited before adding them to Disobey's YouTube; follow us on Twitter and you'll know when!
 
 [https://www.youtube.com/c/Disobey](https://www.youtube.com/c/Disobey)
 
