@@ -2,7 +2,7 @@
 
 ![MAYhem](pics/Green-bg-removed.png)
 
-<div style="width:160%; text-align: right">
+<div style="width:90%; text-align: right">
 <a href="https://twitter.com/citysecs/"><img src="pics/twitter.png" height="50"/></a>
 </div>
 
