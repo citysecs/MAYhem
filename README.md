@@ -5,7 +5,6 @@
 <div style="width:90%; text-align: right">
 <a href="https://twitter.com/citysecs/"><img src="pics/twitter.png" height="50"/></a>
 </div>
-
 # It was a blast -thank you <3 
 
 Both recordings will be edited before adding them to Disobey's YouTube; follow us on Twitter and you'll know when!
