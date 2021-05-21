@@ -3,9 +3,9 @@
 ![MAYhem](pics/Green-bg-removed.png)
 # It was a blast -thank you <3 
 
-Both recordings will be edited before adding them to Disobey's YouTube; follow us on Twitter and you'll know when!
+The videos can be found here
 
-[https://www.youtube.com/c/Disobey](https://www.youtube.com/c/Disobey)
+[https://www.youtube.com/c/Disobey](https://youtube.com/playlist?list=PLLvAhAn5sGfiEA7ZkXph37yeKntd-mop0)
 
 ----------------------------------------------------------------------------
 
